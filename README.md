@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=navneetnr&label=🔥%20Profile%20Views&color=0e75b6&style=for-the-badge&base=1000" alt="navneetnr" />
   <a href="https://github.com/navneetnr?tab=followers">
-    <img src="https://img.shields.io/github/followers/navneetnr?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+    <!-- <img src="https://img.shields.io/github/followers/navneetnr?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" /> -->
   </a>
   <a href="https://github.com/navneetnr/">
   </a>
