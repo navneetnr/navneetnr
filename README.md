@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/github/followers/navneetnr?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
   </a>
   <a href="https://github.com/navneetnr/">
-    <img src="https://img.shields.io/github/stars/navneetnr?label=Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
   </a>
 </div>
 
@@ -177,7 +176,7 @@
   
   <!-- Contribution Stats -->
   <br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=navneetnr&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="70%" alt="Top Contributions"/>
+  <!-- <img src="https://github-contributor-stats.vercel.app/api?username=navneetnr&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="70%" alt="Top Contributions"/> -->
   
 </div>
 
